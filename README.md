@@ -232,7 +232,7 @@ Antes de começar, certifique-se de ter instalado:
 Abra seu terminal e execute:
 
 ```
-git clone https://github.com/seu-usuario/neo-vision.git
+git clone https://github.com/Jcnok/neo-vision.git
 cd neo-vision
 ```
 
@@ -577,7 +577,7 @@ Se algo não funcionar:
 1. **Limpe o cache:** `rm -rf node_modules package-lock.json && npm install`
 2. **Reinicie o servidor:** Ctrl+C e `npm run dev` novamente
 3. **Verifique versões:** `node --version` deve ser ≥18
-4. **Abra uma issue:** [GitHub Issues](https://github.com/seu-usuario/neo-vision/issues)
+4. **Abra uma issue:** [GitHub Issues](https://github.com/Jcnok/neo-vision/issues)
 
 ---
 
@@ -629,7 +629,7 @@ Este projeto é desenvolvido para **fins educacionais e demonstrativos** no cont
 ```
 MIT License
 
-Copyright (c) 2025 Seu Nome
+Copyright (c) 2025 Jcnok
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -668,8 +668,8 @@ Obrigado a todos que testaram, reportaram bugs e contribuíram com ideias!
 
 **Feito com ❤️, ☕ e muita IA Generativa**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@seu--usuario-181717?style=for-the-badge&logo=github)](https://github.com/jcnok)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seu_Nome-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juliookuda)
+[![GitHub](https://img.shields.io/badge/GitHub-@Jcnok-181717?style=for-the-badge&logo=github)](https://github.com/Jcnok)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jcnok-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/juliookuda)
 
 
 **⭐ Se você gostou do projeto, não esqueça de dar uma estrela!**
